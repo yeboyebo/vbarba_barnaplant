@@ -4,7 +4,11 @@
         {
             "version": "v1.0",
             "key": "baseparche"
+        },
+        {
+            "key": "vbarba_cabrera",
+            "version": "v1.0"
         }
     ],
-    "fun_aq": null
+    "fun_aq": "fun_barnaplant"
 }
